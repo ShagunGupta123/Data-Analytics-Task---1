@@ -34,7 +34,6 @@ This project is developed as part of my internship program. It focuses on analyz
 - High and low performance areas found
 
 ## Screenshots
-<img width="995" height="856" alt="Screenshot from 2026-06-17 23-44-22" src="https://github.com/user-attachments/assets/41d813bd-d637-4940-8d4f-9fbc07404977" />
 <img width="995" height="856" alt="Screenshot from 2026-06-17 23-44-12" src="https://github.com/user-attachments/assets/8f8f888f-7a32-48cb-be96-54d25fa0d65d" />
 <img width="995" height="856" alt="Screenshot from 2026-06-17 23-44-00" src="https://github.com/user-attachments/assets/aa55eab3-a460-4c98-9e25-398697721d74" />
 <img width="1682" height="773" alt="Screenshot from 2026-06-17 23-40-49" src="https://github.com/user-attachments/assets/b688bf74-38b7-4506-9383-5f8bdc1760ab" />
@@ -42,7 +41,7 @@ This project is developed as part of my internship program. It focuses on analyz
 <img width="1682" height="773" alt="Screenshot from 2026-06-17 23-40-04" src="https://github.com/user-attachments/assets/b9888576-fccb-45b1-88bd-1ed3660ed2ce" />
 <img width="1736" height="786" alt="Screenshot from 2026-06-18 07-55-32" src="https://github.com/user-attachments/assets/000a0791-7f20-4a31-b440-142c8314c36c" />
 <img width="1736" height="786" alt="Screenshot from 2026-06-18 07-59-16" src="https://github.com/user-attachments/assets/0b3f032a-c5b0-401c-8a6b-dfcc972bce3e" />
-<img width="1736" height="786" alt="Screenshot from 2026-06-18 07-55-32" src="https://github.com/user-attachments/assets/55cc703c-0931-4217-b625-a447d0463203" />
+
 
 
 
