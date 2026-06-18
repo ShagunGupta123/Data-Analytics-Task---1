@@ -40,6 +40,9 @@ This project is developed as part of my internship program. It focuses on analyz
 <img width="1682" height="773" alt="Screenshot from 2026-06-17 23-40-49" src="https://github.com/user-attachments/assets/b688bf74-38b7-4506-9383-5f8bdc1760ab" />
 <img width="1682" height="773" alt="Screenshot from 2026-06-17 23-40-21" src="https://github.com/user-attachments/assets/3e6afb2a-c874-4fb5-86d9-7dd64b14b8d9" />
 <img width="1682" height="773" alt="Screenshot from 2026-06-17 23-40-04" src="https://github.com/user-attachments/assets/b9888576-fccb-45b1-88bd-1ed3660ed2ce" />
+<img width="1736" height="786" alt="Screenshot from 2026-06-18 07-55-32" src="https://github.com/user-attachments/assets/000a0791-7f20-4a31-b440-142c8314c36c" />
+<img width="1736" height="786" alt="Screenshot from 2026-06-18 07-59-16" src="https://github.com/user-attachments/assets/0b3f032a-c5b0-401c-8a6b-dfcc972bce3e" />
+<img width="1736" height="786" alt="Screenshot from 2026-06-18 07-55-32" src="https://github.com/user-attachments/assets/35d9da0a-270b-42b4-bda3-182d9642bc88" />
 
 
 ## How to Run
